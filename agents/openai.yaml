@@ -1,4 +1,4 @@
 interface:
   display_name: "Stable Black Ink Doodle"
   short_description: "Generate consistent hand-drawn black ink doodle illustrations"
-  default_prompt: "Use $stable-black-ink-doodle to convert the provided image into a consistent hand-drawn black-ink object illustration."
+  default_prompt: "Use $stable-black-ink-doodle to generate or transform the requested object, or produce a nine-piece transparent line-art sticker set with a titled 1086x1448 retail packaging preview."
