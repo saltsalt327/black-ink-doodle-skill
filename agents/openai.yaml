@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stable Black Ink Doodle"
+  short_description: "Generate consistent hand-drawn black ink doodle illustrations"
+  default_prompt: "Use $stable-black-ink-doodle to convert the provided image into a consistent hand-drawn black-ink object illustration."
